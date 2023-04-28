@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659625798036",
+    "project_id": "prjsales-c2f67",
+    "storage_bucket": "prjsales-c2f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659625798036:android:0c04c3c2a31f8f80418781",
+        "android_client_info": {
+          "package_name": "com.example.sales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659625798036-42v6k66enjioifl9mdvvhlrqh6p60gtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-p42_eRDjj3cHOx6_6OT4yEJM4jjp0Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659625798036-42v6k66enjioifl9mdvvhlrqh6p60gtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
